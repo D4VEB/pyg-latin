@@ -1,3 +1,5 @@
+# Jeff, I made changes to this code based on your feedback this morning. 
+
 your_word = input('Tell me a word: ')
 first_letter = your_word[0]
 
